@@ -43,7 +43,7 @@
 
 // // La funcion eval realiza una evaluacion de la cadena de texto ingresada y si esta contiene un operdor matematico esta realiza la operacion y devuelve el resultado en este caso de la operacion realizada por el usuario.
 
-import { calcularExpresion } from './src/utils/operaciones.js';
+import { calcularExpresion } from './utils/operaciones.js';
 
 const pantalla = document.querySelector('.pantalla');
 const botones = document.querySelectorAll('.btn');
