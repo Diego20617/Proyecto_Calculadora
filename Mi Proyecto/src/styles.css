@@ -12,7 +12,7 @@ body{
 }
 
 .calculadora{
-    background-color: #48bfff;
+    background-color: #3f4143;
     color: white;
     width: 350px;
     max-width: 100%;
@@ -21,7 +21,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1.5rem;
-    box-shadow: 0 0 20px #48bfff;
+    box-shadow: 0 0 20px #d2d8db;
 }
 
 .pantalla{
@@ -37,7 +37,7 @@ body{
 }
 
 .btn{
-    background-color: #006da7;
+    background-color: #14a0eb;
     color: white;
     border: 0;
     padding: 1.5rem .5rem;
